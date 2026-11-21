@@ -1,0 +1,5 @@
+/home/mtkdev/Documents/ClangTop++/ClangTop++/build/CMakeFiles/clangtop_core.dir
+/home/mtkdev/Documents/ClangTop++/ClangTop++/build/CMakeFiles/clangtoppp.dir
+/home/mtkdev/Documents/ClangTop++/ClangTop++/build/CMakeFiles/test_smoke.dir
+/home/mtkdev/Documents/ClangTop++/ClangTop++/build/CMakeFiles/edit_cache.dir
+/home/mtkdev/Documents/ClangTop++/ClangTop++/build/CMakeFiles/rebuild_cache.dir

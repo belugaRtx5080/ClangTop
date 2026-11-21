@@ -1,0 +1,1 @@
+/usr/bin/clang++  -Wall -Wextra -O2 -Xlinker --dependency-file=CMakeFiles/clangtoppp.dir/link.d CMakeFiles/clangtoppp.dir/src/main.cpp.o -o ClangTop++  libclangtop_core.a

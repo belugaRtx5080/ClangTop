@@ -1,0 +1,2 @@
+/usr/bin/llvm-ar qc libclangtop_core.a CMakeFiles/clangtop_core.dir/src/collectors/sys_kernel_collector.cpp.o CMakeFiles/clangtop_core.dir/src/collectors/cpu_collector.cpp.o CMakeFiles/clangtop_core.dir/src/collectors/power_collector.cpp.o CMakeFiles/clangtop_core.dir/src/collectors/mem_io_net_collector.cpp.o CMakeFiles/clangtop_core.dir/src/collectors/fs_code_scanner.cpp.o CMakeFiles/clangtop_core.dir/src/collectors/kernel_lab.cpp.o
+/usr/bin/llvm-ranlib libclangtop_core.a
